@@ -1,0 +1,9 @@
+1. Crie um array vazio chamado "roupas" e adicione 4 peças de roupas ao final dele usando o método "push". Mostre no console o array final. Cole o código no espaço abaixo.
+
+2. No mesmo array do exercício anterior com os 4 elementos no array, remova o último elemento.  Mostre no console o array final. Cole o código no espaço abaixo
+
+3. Utilizando ainda o mesmo array, agora com 3 elementos. Adicione uma nova peça de roupa no início do array, utilize o método aprendido em aula.  Cole o código no espaço abaixo.
+
+4. Utilizando ainda o mesmo array: Remova uma peça de roupa do início do array, utilize o método aprendido em aula.  Cole o código no espaço abaixo.
+
+5. Crie um novo array com os seguintes elementos: arroz, feijão, batata, macarrão. Remova o último elemento. Mostre no console. Encontre o índice de "feijão" e mostre no console o índice.  Cole o código no espaço abaixo.
