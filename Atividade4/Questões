@@ -1,0 +1,9 @@
+1 - Usando a estrutura for, escreva um programa que calcule a soma de todos os números pares de 1 a 100. Exiba o resultado. Cole o código abaixo.
+
+2 - Escreva um programa que calcule a soma de todos os números em uma lista de números. Mostre o console o resultado. Dica: use a estrutura for...of. Cole o código abaixo.
+
+3 - Crie um programa que exiba a tabuada de um número escolhido pelo usuário. Peça ao usuário para inserir um número e, em seguida, exiba a tabuada desse número de 1 a 10. Cole o código abaixo.
+
+4 - Crie um programa que faça uma contagem regressiva a partir de um número inserido pelo usuário até zero e mostre no console. Use o laço de repetição WHILE. Cole o código abaixo.
+
+5 - Escreva um programa que calcule e mostre a soma de todos os números ímpares de 1 a 50 usando um loop while. Cole o código abaixo.
