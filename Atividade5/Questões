@@ -1,0 +1,11 @@
+1 - Crie um procedimento que receba a idade de uma pessoa como parâmetro e exiba no console se ela é maior de idade ou não.
+
+2 - Crie uma função que dobre um número passado como parâmetro e retorne o resultado.
+
+3 - Crie um procedimento que receba a largura e a altura de um retângulo como parâmetros e exiba a área desse retângulo no console.
+
+4 - Crie um procedimento que receba um número como parâmetro e exiba no console se o número é par ou ímpar.
+
+5 - Crie uma função que calcule o IMC com base no peso (em quilogramas) e na altura (em metros) passados como parâmetros e retorne o resultado.
+
+6 - Crie uma função que converta uma temperatura em graus Celsius para graus Fahrenheit e vice-versa.
